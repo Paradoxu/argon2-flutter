@@ -1,0 +1,12 @@
+<component name="libraryTable">
+  <library name="Flutter Plugins" type="FlutterPluginsLibraryType">
+    <CLASSES>
+      <root url="file://$PROJECT_DIR$" />
+      <root url="file://$PROJECT_DIR$/../../../../../../../src/flutter/.pub-cache/hosted/pub.dartlang.org/dargon2_flutter-2.1.0" />
+      <root url="file://$PROJECT_DIR$/../argon2_flutter_interface" />
+      <root url="file://$PROJECT_DIR$/../argon2_flutter_web" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
