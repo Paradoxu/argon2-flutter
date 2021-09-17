@@ -12,7 +12,7 @@ dependencies:
   argon2_flutter_interface:
     git:
       url: https://github.com/Paradoxu/argon2-flutter.git
-      ref: argon2_flutter_interface
+      path: argon2_flutter_interface
       
   flutter:
     sdk: flutter
