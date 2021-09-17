@@ -2,7 +2,7 @@ name: argon2_flutter
 description: A simple flutter plugin to handle Argon2 functionality with compatibility for the web using WASM
 version: 0.1.2
 publish_to: none
-homepage: https://gitlab.com/Paradoxu/argon2-flutter/argon2_flutter
+homepage: https://github.com/Paradoxu/argon2-flutter/argon2_flutter
 
 environment:
   sdk: ">=2.12.0 <3.0.0"
@@ -16,11 +16,11 @@ dependencies:
 
   argon2_flutter_interface:
     git:
-      url: https://gitlab.com/Paradoxu/argon2-flutter.git
+      url: https://github.com/Paradoxu/argon2-flutter.git
       ref: argon2_flutter_interface
   argon2_flutter_web:
     git:
-      url: https://gitlab.com/Paradoxu/argon2-flutter.git
+      url: https://github.com/Paradoxu/argon2-flutter.git
       ref: argon2_flutter_web
 
 dev_dependencies:

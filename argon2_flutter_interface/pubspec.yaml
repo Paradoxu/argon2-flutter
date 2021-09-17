@@ -1,7 +1,7 @@
 name: argon2_flutter_interface
 description: A platform interface plugin that implements the interface of methods from the Argon2Flutter plugins
 version: 0.1.0
-homepage: https://gitlab.com/Paradoxu/argon2-flutter/argon2_flutter
+homepage: https://github.com/Paradoxu/argon2-flutter/argon2_flutter
 
 environment:
   sdk: ">=2.12.0 <3.0.0"
